@@ -3,6 +3,13 @@
   
     
     <entry>
+      <title><![CDATA[test]]></title>
+      <url>%2F2018%2F08%2F12%2Ftest%2F</url>
+      <content type="text"></content>
+    </entry>
+
+    
+    <entry>
       <title><![CDATA[每天进步一点点]]></title>
       <url>%2F2018%2F03%2F25%2F%E6%AF%8F%E5%A4%A9%E8%BF%9B%E6%AD%A5%E4%B8%80%E7%82%B9%E7%82%B9%2F</url>
       <content type="text"><![CDATA[怎样理解Java的面向对象编程，怎样理解JS的基于对象编程]]></content>
